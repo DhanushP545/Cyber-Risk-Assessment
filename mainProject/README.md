@@ -199,7 +199,7 @@ The `sample_test_targets.txt` file contains the following intentionally vulnerab
 | Eswar V | [@userid4](https://github.com/eswar0113) |
 | Dhanush Polasi | [@userid5](https://github.com/DhanushP545) |
 
-**Repository:** [https://github.com/noornabeeha/Cyber-Risk-and-Threat-Intelligence-platform](https://github.com/DhanushP545/Cyber-Risk-Assessment)
+**Repository:** [https://github.com/DhanushP545/Cyber-Risk-Assessment](https://github.com/DhanushP545/Cyber-Risk-Assessment)
 
 ---
 
