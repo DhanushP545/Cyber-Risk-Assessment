@@ -104,8 +104,8 @@ The core scoring engine that combines Nmap and VT results into a single composit
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/noornabeeha/Cyber-Risk-and-Threat-Intelligence-platform.git
-cd Cyber-Risk-and-Threat-Intelligence-platform
+git clone https://github.com/DhanushP545/Cyber-Risk-Assessment.git
+cd Cyber-Risk-Assessment
 ```
 
 ### 2. Install Dependencies
