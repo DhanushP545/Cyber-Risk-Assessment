@@ -193,12 +193,13 @@ The `sample_test_targets.txt` file contains the following intentionally vulnerab
 
 | Name | GitHub |
 |---|---|
-| Dhanush Polasi | [@userid1](https://github.com/DhanushP545) |
+| Noor Nabeeha | [@userid1](https://github.com/noornabeeha) |
 | Sujithraa | [@userid2](https://github.com/Suji2007hub) |
 | Akshay Bakale | [@userid3](https://github.com/AkshayBakale/) |
 | Eswar V | [@userid4](https://github.com/eswar0113) |
+| Dhanush Polasi | [@userid5](https://github.com/DhanushP545) |
 
-**Repository:** [https://github.com/noornabeeha/Cyber-Risk-and-Threat-Intelligence-platform](https://github.com/noornabeeha/Cyber-Risk-and-Threat-Intelligence-platform)
+**Repository:** [https://github.com/noornabeeha/Cyber-Risk-and-Threat-Intelligence-platform](https://github.com/DhanushP545/Cyber-Risk-Assessment)
 
 ---
 
